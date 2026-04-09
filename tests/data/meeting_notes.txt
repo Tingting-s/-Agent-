@@ -1,0 +1,7 @@
+Weekly Product Sync
+Participants: Alice, Bob, Carol
+Decision: Keep the first release focused on mock tools.
+Decision: Delay external API integration until the next sprint.
+Action: Prepare demo script @Alice due: 2026-04-10
+Task: Review tool schemas owner: Bob due: 2026-04-12
+- [ ] Update README examples @Carol before 2026-04-15
